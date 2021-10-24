@@ -1,0 +1,10 @@
+.list {
+  font-size: larger;
+  font-weight: 600;
+}
+
+.deleteBtn {
+  margin-left: 15px;
+  background-color: cadetblue;
+  color: azure;
+}

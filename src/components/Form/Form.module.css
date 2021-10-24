@@ -1,0 +1,23 @@
+form {
+  display: inline-flex;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 15%;
+  padding: 30px;
+}
+
+.addBtn {
+  width: 100px;
+  margin-top: 15px;
+}
+.addBtn:hover {
+  background-color: darkorange;
+  transition: transform 250ms;
+  transform: scale(1.2);
+}
+
+.labelText {
+  margin-top: 15px;
+  font-weight: 600;
+  font-style: oblique;
+}
